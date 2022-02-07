@@ -361,6 +361,4 @@ For example adding &#39;Hel&#39; + &#39;lo&#39; will result in &#39;Hello&#39;
 
 [Compilers](https://youtu.be/QXjU9qTsYCc)
 
-[GIT Long](https://youtu.be/92sycL8ij-U)
-
 [GIT Short](https://youtu.be/2ReR1YJrNOM)
