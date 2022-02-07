@@ -359,8 +359,8 @@ For example adding &#39;Hel&#39; + &#39;lo&#39; will result in &#39;Hello&#39;
 
 ## Refs:
 
-[https://youtu.be/QXjU9qTsYCc](https://youtu.be/QXjU9qTsYCc)
+[Compilers](https://youtu.be/QXjU9qTsYCc)
 
-[https://youtu.be/92sycL8ij-U](https://youtu.be/92sycL8ij-U)
+[GIT Long](https://youtu.be/92sycL8ij-U)
 
-[https://youtu.be/2ReR1YJrNOM](https://youtu.be/2ReR1YJrNOM)
+[GIT Short](https://youtu.be/2ReR1YJrNOM)
