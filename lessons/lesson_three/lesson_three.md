@@ -493,8 +493,7 @@ There are many more string formatting possibilities, and I encourage you to try 
 
 ## Exercises
 
-Throughout all the exercises, prompt the user with the proper question when using **input()** and use descriptive
-**formatted** results where applicable.
+Throughout all the exercises, prompt the user with the proper question when using **input()**.
 
 1. Write a program that will ask the user for the dimensions (width, length, height) of a cuboid, and will calculate and
    print its volume Example:
@@ -505,7 +504,7 @@ Input:
 40
 20
 Ouput:
-Volume is: 24000
+24000
 ```
 
 2. Write a program that will ask the user for two numbers. The program should print out the highest number. Try to make
@@ -516,7 +515,7 @@ Input:
 99
 102
 Ouput:
-Highest number is: 102
+102
 ```
 
 3. Write a program that will ask the user his **Name**, **Age** and **Gender** then it will print one of these welcome
@@ -545,7 +544,11 @@ Welcome Ms. Elizabeth
 
 ```
 Input:
-
+9
 Output:
-
+Very Cold weather
+Input:
+79
+Output:
+It's Very Hot
 ```
