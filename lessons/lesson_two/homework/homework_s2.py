@@ -4,7 +4,7 @@ print(result)  # HelloHello
 
 # Ex2
 
-new_string = input()
+new_string = input().lower()
 a_s = new_string.count('a')
 e_s = new_string.count('e')
 o_s = new_string.count('o')
@@ -15,7 +15,7 @@ print(a_s + e_s + o_s + y_s + u_s + i_s)
 
 # Or
 
-new_string = input()
+new_string = input().lower()
 print(
     new_string.count('a') +
     new_string.count('e') +
@@ -28,7 +28,7 @@ print(
 # Or
 
 
-new_string = input()
+new_string = input().lower()
 count = 0
 count += new_string.count('a')
 count += new_string.count('e')
@@ -51,4 +51,4 @@ print(email_end == '@gmail.com')
 email = input('Input a gmail email: ')
 # Optional (make it lowercase)
 email = email.lower()
-print(email_end.count('@gmail.com') == 1)
+print(email.count('@gmail.com') == 1)
