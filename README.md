@@ -6,13 +6,13 @@ This repository will contain all necessary assets to follow along the Python Fun
 
 ## [Lesson one](lessons/lesson_one/lesson_one.md)
 
-#### [Lesson one presentation](lessons/lesson_one/Seesion 1.pptx)
+#### [Lesson one presentation](lessons/lesson_one/Seesion_1.pptx)
 
-#### [Code example: Hello](lessons/lesson_one/code_examples/hello_echo.py)
+* [Code example: Hello](lessons/lesson_one/code_examples/hello_echo.py)
 
 ## [Lesson two](lessons/lesson_two/lesson_two.md)
 
-#### [Lesson two presentation](lessons/lesson_two/Seesion 2.pptx)
+#### [Lesson two presentation](lessons/lesson_two/Seesion_2.pptx)
 
 * [Class Ex1](lessons/lesson_two/code_examples/ex_1.py)
 
@@ -25,6 +25,8 @@ This repository will contain all necessary assets to follow along the Python Fun
 * [Homework Solutions](lessons/lesson_two/homework/homework_s2.py)
 
 ## [Lesson three](lessons/lesson_three/lesson_three.md)
+
+#### [Lesson 3 presentation](lessons/lesson_three/Session_3.pptx)
 
 * [Class Ex1](lessons/lesson_three/code_examples/ex_1.py)
 * [Class Ex2](lessons/lesson_three/code_examples/ex_2.py)
