@@ -15,13 +15,9 @@ This repository will contain all necessary assets to follow along the Python Fun
 #### [Lesson two presentation](lessons/lesson_two/Seesion_2.pptx)
 
 * [Class Ex1](lessons/lesson_two/code_examples/ex_1.py)
-
 * [Class Ex2](lessons/lesson_two/code_examples/ex_2.py)
-
 * [Class Ex3](lessons/lesson_two/code_examples/ex_3.py)
-
 * [Class Ex4](lessons/lesson_two/code_examples/ex_4.py)
-
 * [Homework Solutions](lessons/lesson_two/homework/homework_s2.py)
 
 ## [Lesson three](lessons/lesson_three/lesson_three.md)
