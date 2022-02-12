@@ -323,10 +323,10 @@ discount = default_discount if custom_discount is None else custom_discount
 
 You've encountered it in various places, but why is it needed.
 
-Python code is executed by going through the script file line by line, but sometimes, you need to process the file
-without executing things, for example, when you import from another file (module).
+Python code is executed by going through the script file line by line, but sometimes, you need to process the script file
+without executing code, for example, when you import functions or variables from another python file (module).
 
-The ```if __name__ == '__main__'``` checks if the file is executed directly (by running the script) or if it's being
+The ```if __name__ == '__main__'``` checks if the python file is executed directly (by running the script) or if it's being
 processed as part of an import.
 
 It's not required to have it in your program, but it's good practice having it.
