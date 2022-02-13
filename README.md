@@ -28,3 +28,4 @@ This repository will contain all necessary assets to follow along the Python Fun
 * [Class Ex2](lessons/lesson_three/code_examples/ex_2.py)
 * [Class Ex3](lessons/lesson_three/code_examples/ex_3.py)
 * [Class Ex4](lessons/lesson_three/code_examples/ex_4.py)
+* [Homework Solutions](lessons/lesson_three/homework)
