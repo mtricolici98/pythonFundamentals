@@ -199,6 +199,16 @@ Tuples should be used in two scenarios:
 
 1. When you have data that should not be changed
 2. When you have a lot of data that you know will not change, because tuples require less computer memory.
+3. When you want to have a pair of data items
+
+```python
+# Example
+name_and_age = ('Marius', 24)
+users_with_names_and_ages = [name_and_age]
+users_with_names_and_ages.append(('Andrei', 22))
+print(users_with_names_and_ages)
+# [('Marius', 24), ('Andrei', 22)]
+```
 
 ## For loops, iteration
 
