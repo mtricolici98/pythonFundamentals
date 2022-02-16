@@ -12,7 +12,7 @@ for i in range(times):
 for name in set(values_list):
     print(f'{name} was input {values_list.count(name)} times')
 
-# Yes I know this is shorter :) the way thing dict has as a benefit is the performance.
+# Yes I know this is shorter :) the only way dict has as a benefit is the performance.
 
 """
 In the dict example we do 2 loops
