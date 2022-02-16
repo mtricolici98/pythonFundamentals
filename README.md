@@ -39,3 +39,17 @@ This repository will contain all necessary assets to follow along the Python Fun
 * [Class Ex3](lessons/lesson_4/code_examples/ex_3.py)
 * [Class Ex4](lessons/lesson_4/code_examples/ex_4.py)
 * [Homework Solutions](lessons/lesson_4/homework)
+
+## [Lesson 5](lessons/lesson_5/lesson_5.md)
+
+#### [Lesson 5 presentation](lessons/lesson_5/Session_5.pptx)
+
+* [Class Ex1](lessons/lesson_5/code_examples/ex_1.py)
+* [Class Ex2](lessons/lesson_5/code_examples/ex_2.py)
+* [Class Ex2_1](lessons/lesson_5/code_examples/ex_2_1.py)
+* [Class Ex3](lessons/lesson_5/code_examples/ex_3.py)
+* [Class Ex4](lessons/lesson_5/code_examples/ex_4.py)
+* [Class Ex4_1 (a fun one)](lessons/lesson_5/code_examples/ex_4_1.py)
+* [Class Ex5](lessons/lesson_5/code_examples/ex_5.py)
+* [Class Example 1](lessons/lesson_5/code_examples/example_1.py)
+* [Class Example 2](lessons/lesson_5/code_examples/example_2.py)
