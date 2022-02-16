@@ -511,7 +511,7 @@ Average is 36.0
 
 **Ex3.**
 
-We are going to create a program where we find find the person with the highest score.
+We are going to create a program where we find the person with the highest score.
 
 1. Ask the user to input a number **n**. Following that, for **n** times:
     1. Ask the user to input a name (name of the person), and add it to a list
