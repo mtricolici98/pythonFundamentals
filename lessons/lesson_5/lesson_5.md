@@ -322,12 +322,12 @@ After registering each person. Print out the following:
 
 Registration for the {profession_name} {first name} {last name} aged {age} is complete.
 
-After registering all **n** people. Create 3 lists of people.
+After registering all **n** people. Create 4 lists of people.
 
-1. People between ages 14 and 18
-2. People between ages 18 and 25
-3. People between ages 26 and 45
-4. People between above age 45
+1. People between ages 14 and 18 (including)
+2. People between ages 18 (excluding) and 25 (including)
+3. People between ages 26 and 45 (including)
+4. People above age 45
 
 Print out the names of each in the given format:
 
