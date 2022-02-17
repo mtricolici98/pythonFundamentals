@@ -53,3 +53,6 @@ This repository will contain all necessary assets to follow along the Python Fun
 * [Class Ex5](lessons/lesson_5/code_examples/ex_5.py)
 * [Class Example 1](lessons/lesson_5/code_examples/example_1.py)
 * [Class Example 2](lessons/lesson_5/code_examples/example_2.py)
+
+
+* [Homework Solutions](lessons/lesson_5/homework)
