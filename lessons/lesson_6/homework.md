@@ -13,6 +13,31 @@ Those of you who don't have a GitHub account yet, please create one.
 
 I expect the account creation process to not raise any problems for any of you.
 
+## Unsolved Class Exercises
+
+**Ex1**
+
+Create a program that will let the user type in any number for as many times as he wants. (use while loops)ю
+
+After each typed number, print if the number is even or odd
+
+If the entered value is not a number, stop the program and print “Im done”
+
+**Ex2**
+
+From user input, read a date
+
+Print the date of the next day after the user input date:
+
+Example:
+
+````
+Input:
+31-12-2022
+Output:
+01-01-2023
+````
+
 ## Exercises
 
 **Ex 1**
@@ -104,8 +129,8 @@ Output: {1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36, 7: 49, 8: 64, 9: 81, 10: 100, 11
 
 **Ex8.**
 
-Create a python program that will print all combination of numbers a, b, c where a + b + c = **N** where **N** is
-input from the console. a, b and c should be greater than 0.
+Create a python program that will print all combination of numbers a, b, c where a + b + c = **N** where **N** is input
+from the console. a, b and c should be greater than 0.
 
 Example
 
