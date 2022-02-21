@@ -70,4 +70,5 @@ This repository will contain all necessary assets to follow along the Python Fun
 #### [Lesson 7 presentation](lessons/lesson_7/Session_7.pptx)
 
 * [Class Examples](lessons/lesson_7/examples)
+* [GitHub Setup](lessons/lesson_7/github_setup.md)
 * [Homework](lessons/lesson_7/homework.md)
