@@ -63,3 +63,11 @@ This repository will contain all necessary assets to follow along the Python Fun
 
 * [Class Examples](lessons/lesson_6/class_examples)
 * [Homework](lessons/lesson_6/homework.md)
+
+
+## [Lesson 7](lessons/lesson_7/lesson_7.md)
+
+#### [Lesson 7 presentation](lessons/lesson_7/Session_7.pptx)
+
+* [Class Examples](lessons/lesson_7/examples)
+* [Homework](lessons/lesson_7/homework.md)
