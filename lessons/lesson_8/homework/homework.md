@@ -12,6 +12,10 @@ file = open('my_file.txt')
 Or you can provide the full path to file: example _'C:\\files\\new_file.txt'_ Use backslash \ to escape the backlash in
 the file path.
 
+````python
+file = open('C:\\files\\new_file.txt')  # Change your path accordingly
+````
+
 ### How to get the path of a file ?
 
 #### In pycharm
