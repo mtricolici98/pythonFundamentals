@@ -75,6 +75,6 @@ This repository will contain all necessary assets to follow along the Python Fun
 
 ## [Lesson 8](lessons/lesson_8/lesson_8.md)
 
-#### [Lesson 7 presentation](lessons/lesson_8/Session_8.pptx)
+#### [Lesson 8 presentation](lessons/lesson_8/Session_8.pptx)
 
 * [Class Examples](lessons/lesson_8/example)
