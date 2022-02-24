@@ -1,7 +1,7 @@
 def is_number_prime(number):
     # No number above number / 2 will be divisible, so we don't have to check them
     for a in range(2, (number // 2) + 1):
-        if number % 2 == 0:
+        if number % a == 0:
             # Number has a divisor, not prime
             return False
     # No divisors found above, number is prime
