@@ -7,7 +7,7 @@ def return_list_of_lines_in_file(filename):
 
 def test_ex_extra_3():
     filename = input("Filename ?: ")
-    lines = return_list_of_lines_in_file(filename)  # Reusing from previous exercise
+    lines = return_list_of_lines_in_file(filename)
     max_length = 0
     for line in lines:
         line_length = len(line)
