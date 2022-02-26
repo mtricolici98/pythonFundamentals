@@ -81,6 +81,7 @@ This repository will contain all necessary assets to follow along the Python Fun
 * [Other Examples](lessons/lesson_8/example)
 * [Homework exercises](lessons/lesson_8/homework/homework.md)
 * [Homework folder](lessons/lesson_8/homework)
+* [Homework solutions](homework_solutions_lesson_8)
 
 ## [Lesson 9](lessons/lesson_9/lesson_9.md)
 
