@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Eoin Senior",
+    "position": "Nurse Practitioner",
+    "salary": 2344,
+    "employee_from": "03/16/2010"
+  },
+  {
+    "name": "Keyan Edwards",
+    "position": "Data Entry Clerk",
+    "salary": 2477,
+    "employee_from": "06/19/2008"
+  },
+  {
+    "name": "Everett Heaton",
+    "position": "Sales Manager",
+    "salary": 1368,
+    "employee_from": "03/15/2009"
+  },
+  {
+    "name": "Tate Richards",
+    "position": "Sales Manager",
+    "salary": 3029,
+    "employee_from": "08/18/2017"
+  },
+  {
+    "name": "Kacy Mccray",
+    "position": "Data Entry Clerk",
+    "salary": 2522,
+    "employee_from": "06/24/2018"
+  },
+  {
+    "name": "Marina Pugh",
+    "position": "Executive Assistant",
+    "salary": 1420,
+    "employee_from": "07/03/2017"
+  },
+  {
+    "name": "Evie-Grace Couch",
+    "position": "Nurse Practitioner",
+    "salary": 1105,
+    "employee_from": "04/14/2010"
+  },
+  {
+    "name": "Raveena Graham",
+    "position": "Marketing Manager",
+    "salary": 2269,
+    "employee_from": "03/03/2017"
+  },
+  {
+    "name": "Kirby Bennett",
+    "position": "Administrative Assistant",
+    "salary": 2559,
+    "employee_from": "12/03/2016"
+  },
+  {
+    "name": "Sharna Vega",
+    "position": "Software Engineer",
+    "salary": 2620,
+    "employee_from": "02/14/2013"
+  },
+  {
+    "name": "Shiv Hayward",
+    "position": "Data Entry Clerk",
+    "salary": 2818,
+    "employee_from": "01/08/2017"
+  },
+  {
+    "name": "Elmer Rodgers",
+    "position": "Nurse Practitioner",
+    "salary": 3765,
+    "employee_from": "10/20/2012"
+  },
+  {
+    "name": "Debra Evans",
+    "position": "Sales Manager",
+    "salary": 2077,
+    "employee_from": "03/08/2016"
+  },
+  {
+    "name": "Gordon Jacobson",
+    "position": "Executive Assistant",
+    "salary": 1838,
+    "employee_from": "09/28/2012"
+  },
+  {
+    "name": "Joely Nielsen",
+    "position": "Data Entry Clerk",
+    "salary": 2619,
+    "employee_from": "03/27/2018"
+  },
+  {
+    "name": "Mikhail Beil",
+    "position": "Customer Service Representative",
+    "salary": 3876,
+    "employee_from": "04/19/2012"
+  },
+  {
+    "name": "Kaitlyn Butt",
+    "position": "Executive Assistant",
+    "salary": 3215,
+    "employee_from": "01/30/2019"
+  },
+  {
+    "name": "Edwin Cordova",
+    "position": "Data Entry Clerk",
+    "salary": 3515,
+    "employee_from": "10/19/2010"
+  },
+  {
+    "name": "Earl Greig",
+    "position": "Administrative Assistant",
+    "salary": 3304,
+    "employee_from": "10/20/2019"
+  },
+  {
+    "name": "Mahek Wharton",
+    "position": "Software Engineer",
+    "salary": 3814,
+    "employee_from": "09/23/2017"
+  },
+  {
+    "name": "Hebe Sierra",
+    "position": "Sales Manager",
+    "salary": 1170,
+    "employee_from": "02/13/2018"
+  },
+  {
+    "name": "Cali Sanchez",
+    "position": "Sales Manager",
+    "salary": 1474,
+    "employee_from": "06/30/2010"
+  },
+  {
+    "name": "Myron Downs",
+    "position": "Software Engineer",
+    "salary": 3203,
+    "employee_from": "07/19/2013"
+  },
+  {
+    "name": "Mackenzie Morrison",
+    "position": "Marketing Manager",
+    "salary": 3571,
+    "employee_from": "01/19/2016"
+  },
+  {
+    "name": "Garfield Kelly",
+    "position": "Sales Manager",
+    "salary": 2990,
+    "employee_from": "01/21/2013"
+  },
+  {
+    "name": "Hamid Jacobs",
+    "position": "Nurse Practitioner",
+    "salary": 1765,
+    "employee_from": "04/27/2018"
+  },
+  {
+    "name": "Isma Rawlings",
+    "position": "Sales Manager",
+    "salary": 1832,
+    "employee_from": "04/18/2010"
+  },
+  {
+    "name": "Jarvis Hodson",
+    "position": "Executive Assistant",
+    "salary": 1307,
+    "employee_from": "06/01/2009"
+  },
+  {
+    "name": "Malak Burns",
+    "position": "Nurse Practitioner",
+    "salary": 3892,
+    "employee_from": "08/23/2014"
+  },
+  {
+    "name": "Brandy York",
+    "position": "Administrative Assistant",
+    "salary": 1005,
+    "employee_from": "03/12/2013"
+  },
+  {
+    "name": "Tyra Haney",
+    "position": "Administrative Assistant",
+    "salary": 2724,
+    "employee_from": "12/11/2012"
+  },
+  {
+    "name": "Sila Mcknight",
+    "position": "Nurse Practitioner",
+    "salary": 3314,
+    "employee_from": "05/20/2009"
+  },
+  {
+    "name": "Imogen Metcalfe",
+    "position": "Marketing Manager",
+    "salary": 1537,
+    "employee_from": "06/15/2010"
+  },
+  {
+    "name": "Timur Peck",
+    "position": "Administrative Assistant",
+    "salary": 1437,
+    "employee_from": "11/21/2010"
+  },
+  {
+    "name": "Martin Mcdougall",
+    "position": "Executive Assistant",
+    "salary": 3514,
+    "employee_from": "03/24/2009"
+  },
+  {
+    "name": "Diya Sweet",
+    "position": "Nurse Practitioner",
+    "salary": 2252,
+    "employee_from": "08/28/2018"
+  },
+  {
+    "name": "Adrian Powell",
+    "position": "Data Entry Clerk",
+    "salary": 3987,
+    "employee_from": "05/08/2008"
+  },
+  {
+    "name": "Sophie Snyder",
+    "position": "Sales Manager",
+    "salary": 2852,
+    "employee_from": "04/28/2016"
+  },
+  {
+    "name": "Giovanni Cowan",
+    "position": "Customer Service Representative",
+    "salary": 2196,
+    "employee_from": "04/19/2012"
+  },
+  {
+    "name": "Lani Grey",
+    "position": "Administrative Assistant",
+    "salary": 1607,
+    "employee_from": "04/29/2013"
+  },
+  {
+    "name": "Subhaan Robson",
+    "position": "Data Entry Clerk",
+    "salary": 2865,
+    "employee_from": "04/08/2019"
+  },
+  {
+    "name": "Emir Britton",
+    "position": "Nurse Practitioner",
+    "salary": 2645,
+    "employee_from": "04/09/2016"
+  },
+  {
+    "name": "Milena Mansell",
+    "position": "Executive Assistant",
+    "salary": 1532,
+    "employee_from": "07/04/2014"
+  },
+  {
+    "name": "Nico Frank",
+    "position": "Executive Assistant",
+    "salary": 3941,
+    "employee_from": "06/16/2016"
+  },
+  {
+    "name": "Yousuf Bauer",
+    "position": "Nurse Practitioner",
+    "salary": 2534,
+    "employee_from": "05/30/2016"
+  },
+  {
+    "name": "Freya Arias",
+    "position": "Administrative Assistant",
+    "salary": 1091,
+    "employee_from": "08/22/2013"
+  },
+  {
+    "name": "Roseanna Rodriguez",
+    "position": "Customer Service Representative",
+    "salary": 3858,
+    "employee_from": "03/15/2009"
+  },
+  {
+    "name": "Shayan Rhodes",
+    "position": "Customer Service Representative",
+    "salary": 2250,
+    "employee_from": "11/29/2016"
+  },
+  {
+    "name": "Viktoria Stokes",
+    "position": "Data Entry Clerk",
+    "salary": 3675,
+    "employee_from": "03/19/2011"
+  },
+  {
+    "name": "Elias Mcculloch",
+    "position": "Sales Manager",
+    "salary": 3905,
+    "employee_from": "10/17/2016"
+  }
+]
