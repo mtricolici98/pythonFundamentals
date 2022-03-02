@@ -98,3 +98,4 @@ This repository will contain all necessary assets to follow along the Python Fun
 
 * [Class Examples](lessons/lesson_10/class_examples)
 * [Homework exercises](lessons/lesson_10/homework/homework.md)
+* [Homework solutions](lessons/lesson_10/homework_solutions)
