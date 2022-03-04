@@ -30,7 +30,7 @@ The rectangle class should have the following additional properties.
 Create another class **Square** that extends **Rectangle**
 
 The Square class should make sure that the width and length are equal when one of them is set. For example if I set
-square.set_length(4), square.get_length() should also be 4.
+square.set_length(4), square.get_width() should also be 4.
 
 # Ex 2
 
