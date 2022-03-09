@@ -114,6 +114,7 @@ This repository will contain all necessary assets to follow along the Python Fun
 
 * [Class Examples](lessons/lesson_12/class_examples)
 * [Homework exercises](lessons/lesson_12/homework.md)
+* [Homework solutions](lessons/lesson_12/homework_solutions)
 
 ## [Lesson 13](lessons/lesson_13/lessson_13.md)
 
@@ -121,3 +122,4 @@ This repository will contain all necessary assets to follow along the Python Fun
 
 * [Class Examples](lessons/lesson_13/class_examples)
 * [Homework exercises](lessons/lesson_13/homework.md)
+* [Homework solutions](lessons/lesson_13/homework_solutions)
