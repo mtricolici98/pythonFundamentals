@@ -4,7 +4,7 @@ This repository will contain all necessary assets to follow along the Python Fun
 
 ### Lessons
 
-## [Lesson 1](lessons/lesson_one/lesson_one.md)
+## [Lesson 1 Intro](lessons/lesson_one/lesson_one.md)
 
 #### [Lesson 1 presentation](lessons/lesson_one/Seesion_1.pptx)
 
@@ -137,3 +137,10 @@ This repository will contain all necessary assets to follow along the Python Fun
 
 * [Class Examples](lessons/lesson_16/class_examples)
 * [Homework exercises](lessons/lesson_16/homework.md)
+
+## [Lesson 17](lessons/lesson_17/lesson_17.md)
+
+#### [Lesson 16 Presentation](lessons/lesson_17/Session_17.pptx)
+
+* [Class Examples](lessons/lesson_17/class_examples)
+* [Homework exercises](lessons/lesson_17/homework.md)
