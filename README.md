@@ -140,7 +140,7 @@ This repository will contain all necessary assets to follow along the Python Fun
 
 ## [Lesson 17](lessons/lesson_17/lesson_17.md)
 
-#### [Lesson 16 Presentation](lessons/lesson_17/Session_17.pptx)
+#### [Lesson 17 Presentation](lessons/lesson_17/Session_17.pptx)
 
 * [Class Examples](lessons/lesson_17/class_examples)
 * [Homework exercises](lessons/lesson_17/homework.md)
