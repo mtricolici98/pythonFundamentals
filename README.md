@@ -151,3 +151,9 @@ This repository will contain all necessary assets to follow along the Python Fun
 
 * [Class Examples](https://github.com/mtricolici98/courseAssignmentLiveCoding)
 * [Homework exercises](lessons/lesson_18/homework.md)
+
+## [Lesson 19](lessons/lesson_19/lesson_19.md)
+
+#### [Lesson 19 Presentation](lessons/lesson_19/Session_19.pptx)
+
+* [Homework exercises](lessons/lesson_19/homework.md)
