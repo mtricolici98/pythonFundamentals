@@ -3,7 +3,7 @@ import requests
 
 def get_api_headers():
     return {
-        'x-rapidapi-key': "9fc02c456bmsh6626cffb86bc4a3p13dc03jsn476488b50c4e"
+        'x-rapidapi-key': "REMOVED"
     }
 
 
