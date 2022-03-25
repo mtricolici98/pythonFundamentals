@@ -165,3 +165,9 @@ This repository will contain all necessary assets to follow along the Python Fun
 #### [Lesson 20 Presentation](lessons/lesson_20/Session_20.pptx)
 
 * [Homework exercises](lessons/lesson_20/homework.md)
+
+## [Lesson 21](lessons/lesson_21/lesson_21.md)
+
+#### [Lesson 21 Presentation](lessons/lesson_21/Session_21.pptx)
+
+* [Homework exercises](lessons/lesson_21/homework.md)
