@@ -2,6 +2,10 @@
 
 This repository will contain all necessary assets to follow along the Python Fundamentals Course at TekWill.
 
+## Project ideas
+
+If you don't have any ideas, you can use [the following ideas](Project_ideas.md) for your course project.
+
 ### Lessons
 
 ## [Lesson 1 Intro](lessons/lesson_one/lesson_one.md)
@@ -175,3 +179,7 @@ This repository will contain all necessary assets to follow along the Python Fun
 ## [Lesson 22](lessons/lesson_22/lesson_22.md)
 
 * [Homework exercises](lessons/lesson_22/homework.md)
+
+## [Lesson 23](lessons/lesson_23/lesson_23.md)
+
+* [Class examples](lessons/lesson_23/class_examples)
