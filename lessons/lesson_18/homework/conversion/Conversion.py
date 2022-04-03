@@ -19,16 +19,6 @@ class Conversion:
             dict_data['inverseRate'],
         )
 
-    def to_dict(self):
-        return dict(
-            from_code=self.from_curr,
-            code=self.to_curr,
-            name=self.name,
-            rate=self.rate,
-            date=self.date,
-            inverseRate=self.inverseRate
-        )
-
     def __str__(self):
         return f"Conversion from {self.from_curr} to {self.to_curr} at rate {self.rate}"
 

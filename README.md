@@ -157,18 +157,21 @@ If you don't have any ideas, you can use [the following ideas](Project_ideas.md)
 
 * [Class Examples](https://github.com/mtricolici98/courseAssignmentLiveCoding)
 * [Homework exercises](lessons/lesson_18/homework.md)
+* [Homework Solutions](lessons/lesson_18/homework)
 
 ## [Lesson 19](lessons/lesson_19/lesson_19.md)
 
 #### [Lesson 19 Presentation](lessons/lesson_19/Session_19.pptx)
 
 * [Homework exercises](lessons/lesson_19/homework.md)
+* [Homework solutions](lessons/lesson_19/homework.sql)
 
 ## [Lesson 20](lessons/lesson_20/lesson_20.md)
 
 #### [Lesson 20 Presentation](lessons/lesson_20/Session_20.pptx)
 
 * [Homework exercises](lessons/lesson_20/homework.md)
+* [Homework Solutions](lessons/lesson_20/homework)
 
 ## [Lesson 21](lessons/lesson_21/lesson_21.md)
 

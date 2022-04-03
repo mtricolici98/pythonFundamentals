@@ -14,7 +14,7 @@ class ConversionService:
         try:
             with open(filename) as file:
                 data = json.loads(file.read())
-        except json.JSONDecodeError:
+        except json.JSONDecoder:
             print('File data is not formatted properly, cannot processa')
         for key, element in data.items():
             self._conversions.append(Conversion.from_dict(element, self.from_currency))
