@@ -178,6 +178,7 @@ If you don't have any ideas, you can use [the following ideas](Project_ideas.md)
 #### [Lesson 21 Presentation](lessons/lesson_21/Session_21.pptx)
 
 * [Homework exercises](lessons/lesson_21/homework.md)
+* [Homework solution](lessons/lesson_21/homework_solutions)
 
 ## [Lesson 22](lessons/lesson_22/lesson_22.md)
 
